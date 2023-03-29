@@ -1,0 +1,34 @@
+{
+  "name": "blog-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beincharacter/Blog-Server.git"
+  },
+  "author": "Shubham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beincharacter/Blog-Server/issues"
+  },
+  "homepage": "https://github.com/beincharacter/Blog-Server#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.1",
+    "cloudinary": "^1.33.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "express-validator": "^6.14.2",
+    "fileupload": "^0.2.1",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.2",
+    "nodemon": "^2.0.20"
+  }
+}
