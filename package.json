@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/beincharacter/Blog-Server.git"
+  
   },
-  "author": "Shubham",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/beincharacter/Blog-Server/issues"
+    
   },
-  "homepage": "https://github.com/beincharacter/Blog-Server#readme",
+
   "dependencies": {
     "bcrypt": "^5.1.0",
     "body-parser": "^1.20.1",
